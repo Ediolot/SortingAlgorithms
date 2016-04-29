@@ -1,6 +1,6 @@
 # SortingAlgorithms
 
-Number of comparisons in some random integer data from -500 to +500 
+Number of comparisons in some random integer data from -500 to +500 and average time per test. 
 
 (_Note: This does not include memory usage nor array acceses_)
 
